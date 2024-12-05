@@ -47,7 +47,7 @@ This repository contains a lightweight **Messenger Application** built using **R
    - Navigate to the backend code (`R-messengerserver.R`).
    - Run the server script:
      ```R
-     source("server.R")
+     source("R-messengerserver.R")
      ```
    - The server will be available at `http://localhost:8080`.
 
